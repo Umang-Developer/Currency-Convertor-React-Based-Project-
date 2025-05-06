@@ -21,5 +21,6 @@ Download the ZIP file (CurrencyConvertor.zip) from this repository.
 Extract the ZIP to a folder on your computer.
 Open the extracted folder in Visual Studio Code or any code editor.
 In the terminal, run the following commands:
-npm install
-npm start
+1.npm install
+
+2. npm start
